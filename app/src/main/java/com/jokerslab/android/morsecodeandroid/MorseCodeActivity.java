@@ -1,5 +1,6 @@
-package android.jokerslab.com.morsecodeandroid;
+package com.jokerslab.android.morsecodeandroid;
 
+import android.jokerslab.com.morsecodeandroid.R;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;

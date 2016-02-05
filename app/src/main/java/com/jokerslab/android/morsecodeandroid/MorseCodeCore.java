@@ -1,4 +1,4 @@
-package android.jokerslab.com.morsecodeandroid;
+package com.jokerslab.android.morsecodeandroid;
 
 import java.io.File;
 
